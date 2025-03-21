@@ -67,7 +67,7 @@ func main() {
 
 	var drive string
 	for {
-		fmt.Print("Voer de schijf/directory in die je wilt scannen (of typ 'verlaat' om te stoppen: ")
+		fmt.Print("\nVoer de schijf/directory in die je wilt scannen (of typ 'verlaat' om te stoppen: ")
 		fmt.Scanln(&drive)
 		if strings.ToLower(drive) == "verlaat" {
 			fmt.Println("Programma verlaten.")
