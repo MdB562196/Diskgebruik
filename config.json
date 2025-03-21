@@ -1,0 +1,9 @@
+{
+    "categories": 
+    {
+        "Documenten": [".doc", ".docx", ".pdf", ".txt"],
+        "Afbeeldingen": [".jpg", ".jpeg", ".png", ".gif"],
+        "Muziek": [".mp3", ".wav", ".flac"],
+        "Videos": [".mp4", ".mkv", ".avi"]
+    }
+ }
